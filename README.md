@@ -23,7 +23,7 @@ To install from PyPI (recommended) :
     
 To install from source : 
 
-    git clone https://github.com/sripathikrishnan/redis-rdb-tools
+    git clone https://github.com/seneque/redis-rdb-tools
     cd redis-rdb-tools
     sudo python setup.py install
 
